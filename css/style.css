@@ -105,7 +105,7 @@ li.site-navigation {
 /* main-info */
 
 .main-logo-backgr {
-	background-image: url("/img/main-backgr.png");
+	background-image: url("img/main-backgr.png");
 	background-color: #89003c;
 	background-repeat: no-repeat;
 	height: 592px;
@@ -176,7 +176,7 @@ li.site-navigation {
 
 @media (max-width: 640px) {
 	.main-logo-backgr {
-		background-image: url("/img/640.png");
+		background-image: url("img/640.png");
 		width: 100%;
 		margin: 0 auto;
 	}
@@ -272,7 +272,7 @@ li.site-navigation {
 }
 
 .size-table {
-	background-image: url("/img/size-table-back.png");
+	background-image: url("img/size-table-back.png");
 	background-color: #fdf8fa;
 	background-repeat: no-repeat;
 	height: 430px;
@@ -416,7 +416,7 @@ tr:nth-child(2n+1) {
 .pic-wrap::before {
 	position: absolute;
 	content: "";
-	background-image: url("/img/circle.png");
+	background-image: url("img/circle.png");
 	background-repeat: no-repeat;
 	width: 60px;
 	height: 60px;
@@ -582,7 +582,7 @@ input[type=radio] {
 .list::before {
 	position: absolute;
 	content: "";
-	background-image: url("/img/Rectangle.png");
+	background-image: url("img/Rectangle.png");
 	background-repeat: no-repeat;
 	width: 15px;
 	height: 9px;
